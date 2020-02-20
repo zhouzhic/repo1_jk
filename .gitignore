@@ -1,5 +1,0 @@
-# 忽略所有的.project文件
-.project
-# 忽略所有的.settings目录及子目录及路径下的所有文件
-.settings
-.settings/*
